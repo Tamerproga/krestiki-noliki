@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+    background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-purple-beautiful-star-river-background-design-backgroundbeautiful-backgroundstarry-skysmall-image_64153.jpg);
+    background-size: 100%;
+}
+button{
+margin: 10px;
+background-color: rgb(139, 119, 255);
+color: white;
+border-radius: 10px;
+padding: 10px 20px;
+font-size: 70px;
+border-color: white;
+}
+.row div{
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+    border: 5px solid rgb(139, 119, 255);
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;        
+    color:rgb(139, 119, 255);
+}
